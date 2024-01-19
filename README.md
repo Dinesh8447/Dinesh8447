@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate Mern stack from India</h3>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh8447&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh8447" /> </p>
+
+
 
 - 🔭 I’m currently working on **Blog app**
 
@@ -10,6 +13,8 @@
 - 👨‍💻 All of my projects are available at [https://dinesh8447.github.io/portfoli/](https://dinesh8447.github.io/portfoli/)
 
 - 💬 Ask me about **react app**
+
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
